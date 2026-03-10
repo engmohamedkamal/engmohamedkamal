@@ -24,9 +24,3 @@
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,mongodb,postgres,github,git" height="40" />
 </div>
 
-<h2 align="left">📊 GitHub Stats</h2>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=engmohamedkamal&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://streak-stats.demolab.com?user=engmohamedkamal&theme=tokyonight" height="160" />
-</p>
